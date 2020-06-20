@@ -55,3 +55,8 @@ body{
 	text-decoration:none;
 	text-shadow:0px 1px 0px #1570cd;
 }
+
+.centralimage {
+	margin: 0px 280px 30px 370px;
+	padding: 120px 610px 0px 440px;
+}
