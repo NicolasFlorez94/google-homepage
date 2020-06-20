@@ -60,3 +60,11 @@ body{
 	margin: 0px 280px 30px 370px;
 	padding: 120px 610px 0px 440px;
 }
+
+input[type=text] {
+	border: 1px solid gray;
+	border-radius: 25px;
+	width: 435px;
+	margin: 0px 280px 30px 370px;
+	padding: 10px 80px 10px 80px;
+}
