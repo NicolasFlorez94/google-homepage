@@ -79,3 +79,39 @@ input[type=text] {
 input[type=text]:hover {
 	box-shadow: 0px 0px 5px LightGray;
 }
+
+.searchtime {
+	background: yellow;
+	margin: 15px;
+	display: grid;
+	grid-template-columns: 700px 700px;
+}
+
+.searchtotheleft {
+	justify-self: end;
+	background: green;
+	padding-top: 20px;
+	padding-right: 20px;
+	padding-bottom: 20px;
+	padding-left: 20px;
+}
+
+.searchtotheright {
+	justify-self: start;
+	background: red;
+	padding-top: 20px;
+	padding-right: 20px;
+	padding-bottom: 20px;
+	padding-left: 20px;
+}
+
+.searchbuttons {
+	background-color:#e8e8e8;
+	display:inline-block;
+	cursor:pointer;
+	color:#000000;
+	font-family:Arial;
+	font-size:14px;
+	padding:10px 15px;
+	text-decoration:none;
+}
