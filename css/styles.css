@@ -116,3 +116,67 @@ input[type=text]:hover {
 	padding:10px 15px;
 	text-decoration:none;
 }
+
+.bottomnav {
+	border: 1px solid #dedede;
+	font-size: 14px;
+	font-family: Arial;
+	color: #7a7a7a;
+	background: #f0f0f0;
+	width: 100%;
+	display: grid;
+	grid-template-columns: 110px 80px 1460px 70px 60px 70px;
+	grid-gap: 10px;
+	left: 0;
+	bottom: 0;
+	position: fixed;
+}
+
+.f1 {
+	align-self: center;
+	justify-self: end;
+	padding-top: 11px;
+	padding-right: 10px;
+	padding-bottom: 10px;
+	padding-left: 10px;
+}
+
+.f2 {
+	align-self: center;
+	padding-top: 11px;
+	padding-right: 10px;
+	padding-bottom: 10px;
+	padding-left: 10px;
+}
+
+.f3 {
+	align-self: center;
+	padding-top: 11px;
+	padding-right: 10px;
+	padding-bottom: 10px;
+	padding-left: 10px;
+}
+
+.f4 {
+	align-self: center;
+	padding-top: 11px;
+	padding-right: 10px;
+	padding-bottom: 10px;
+	padding-left: 10px;
+}
+
+.f5 {
+	align-self: center;
+	padding-top: 11px;
+	padding-right: 10px;
+	padding-bottom: 10px;
+	padding-left: 10px;
+}
+
+.f6 {
+	align-self: center;
+	padding-top: 11px;
+	padding-right: 10px;
+	padding-bottom: 10px;
+	padding-left: 10px;
+}
